@@ -25,3 +25,8 @@ Reference to the CICD documentation.
 ## Coding style
 
 Explain what coding style are applied.
+
+
+## Tech stack
+
+Explain the overall Tech stack and notable 3rd party dependencies
