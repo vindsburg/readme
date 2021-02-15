@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Documentation  
 
-Reference to the documentation.
+Reference to the documentation and api documentation.
 
 ## Running the tests
 
