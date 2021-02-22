@@ -1,6 +1,6 @@
 # Project Title / Component
 
-One Paragraph of project description goes here
+One Paragraph of project/component description goes here
 
 ## Getting Started
 
